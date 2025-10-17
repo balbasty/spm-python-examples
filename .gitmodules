@@ -1,0 +1,3 @@
+[submodule "dcm-peb"]
+	path = dcm-peb
+	url = git@github.com:balbasty/dcm-peb-example-python.git
