@@ -13,7 +13,7 @@ This repository contains examples that use the [Statistical Parametric Mapping](
 
 * Otherwise
   * Get MATLAB Runtime [online](https://uk.mathworks.com/products/compiler/matlab-runtime.html?requestedDomain=)
-  * Or follow one of the alternative steps [here[(https://github.com/spm/spm-python/tree/main?tab=readme-ov-file#installation-instructions)
+  * Or follow one of the alternative steps [here](https://github.com/spm/spm-python/tree/main?tab=readme-ov-file#installation-instructions)
 
 ### Installing Python
 
